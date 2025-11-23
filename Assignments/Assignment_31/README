@@ -1,1 +1,59 @@
+Output:
+
+program31_1.java:
+Enter the numbers of rows :
+5
+Enter the numbers of columns :
+5
+*
+*       *
+*       *       *
+*       *       *       *
+*       *       *       *       *
+
+
+program31_2.java:
+Enter the numbers of rows :
+4
+Enter the numbers of columns :
+4
+*       *       *       *
+*       *       *
+*       *
+*
+
+
+program31_3.java:
+Enter the numbers of rows :
+5
+Enter the numbers of columns :
+5
+$       *       *       *       *
+#       $       *       *       *
+#       #       $       *       *
+#       #       #       $       *
+#       #       #       #       $
+
+
+program31_4.java:
+Enter the numbers of rows :
+4
+Enter the numbers of columns :
+4
+*       *       *       *
+*       *               *
+*               *       *
+*       *       *       *
+
+
+program31_5.java:
+Enter the numbers of rows :
+5
+Enter the numbers of columns :
+5
+1       2       3       4       5
+        2       3       4       5
+                3       4       5
+                        4       5
+                                5
 
